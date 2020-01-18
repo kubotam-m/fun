@@ -12,7 +12,7 @@ sum = 0
 for i in range(len(val)):
     val[i] = val[i] + sum
     sum = val[i]
-print(val)
+#print(val)
 for i in range(len(val)):
     if v < val[i]:
         print(key[i])
